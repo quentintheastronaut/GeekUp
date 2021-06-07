@@ -1,0 +1,17 @@
+.dropdown {
+    margin: 20px 0;
+}
+
+.collapse {
+    margin: 20px 0;
+}
+
+.inner {
+    padding: 20px 20px;
+    margin: 10px 10px;
+}
+
+button {
+    border: none;
+    background-color: white;
+}
